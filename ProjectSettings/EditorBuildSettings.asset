@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: f32db62f3f3498d46b2fa2f688f572f1
+  - enabled: 1
+    path: Assets/Scenes/PRINCIPAL.unity
+    guid: f0b359902aceb8046ab798bf9c2cbb55
+  - enabled: 1
+    path: Assets/Scenes/OPCIONES.unity
+    guid: 13b65b6b9ff10b146a1e9226bc3d7282
+  - enabled: 1
+    path: Assets/Scenes/NIVELES.unity
+    guid: 6b9a0f0c0acce8c4a83ef1dbc1865899
+  - enabled: 1
+    path: Assets/Scenes/PAUSA.unity
+    guid: 34351f3909c6b4645b7017c0396eb270
+  - enabled: 1
+    path: Assets/Scenes/AYUDA.unity
+    guid: 6ab11858cab64a24190e9eddae746fa4
+  - enabled: 1
+    path: Assets/Scenes/NIVEL CASA.unity
+    guid: 115c3383f7d22ca4ab5b819cb9bce024
+  - enabled: 1
+    path: Assets/Scenes/NIVEL PATIO.unity
+    guid: ba5a99b4d1d59c948a347a684e814d1e
+  - enabled: 1
+    path: Assets/Scenes/CALLE.unity
+    guid: 61028a847b8ff584cb01196754935e6d
+  - enabled: 1
+    path: Assets/ESECENA RETO/NIVEL 2.unity
+    guid: c52bf8dd621191c4889165bbb088ff23
+  m_configObjects: {}
